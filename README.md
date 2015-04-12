@@ -23,7 +23,7 @@ TintingButton could be instantiated with "Title-Image-Border", "Title-Image" or 
 
 ###All Colored mode
 
-[<img width="320 px" src="previews/screenshot1.jpg"/>]
+[<img width="320 px" src="previews/screenshot2.jpg"/>]
 ~~~swift
 let btnShare = TintingButton(completelyTintedWith: .whiteColor(), activeTintColor: .greenColor())
 btnShare.setImage(imageShare, forState: UIControlState.Normal)
@@ -32,7 +32,7 @@ btnShare.setTitle(title, forState: UIControlState.Normal)
 ~~~
 ###Title Image Colored mode 
 
-[<img width="320 px" src="previews/screenshot2.jpg"/>]
+[<img width="320 px" src="previews/screenshot1.jpg"/>]
 
 
 ~~~swift
